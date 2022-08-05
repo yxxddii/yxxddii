@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on ssafy
+
 ![yxxddii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxxddii&show_icons=true&theme=radical)
 
 <!--
